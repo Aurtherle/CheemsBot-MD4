@@ -57,16 +57,16 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['201227175736'] //ur owner number
 global.ownername = "Arthur leywin ٫" //ur owner name
 global.ytname = "YT: Arthur leywin" //ur yt chanel name
-global.socialm = "GitHub: " //ur github or insta name
+global.socialm = "arthu_r8720: " //ur github or insta name
 global.location = "Egypt, Cairo, Arthur" //ur location
 
 //bot bomdy 
 global.owner = ['201227175736']
 global.ownertag = '201227175736' //ur tag number
 global.botname = 'BOT Selfie 🦕 ٫' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = '' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "⍣selfie⍣" //ur sticker watermark packname
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9660540637980'] //ur premium numbers
+global.premium = ['201227175736'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
