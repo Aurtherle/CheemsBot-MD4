@@ -63,14 +63,14 @@ global.location = "Egypt, Cairo, Arthur" //ur location
 //bot bomdy 
 global.owner = ['201227175736']
 global.ownertag = '201227175736' //ur tag number
-global.botname = 'BOT Selfie 🦕 ٫' //ur bot name
+global.botname = '꧁𝐑𝐞𝐠𝐢𝐬 𝐁𝐎𝐓꧂ ٫' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
 global.botscript = '' //script link
-global.reactmoji = "🌚" //ur menu react emoji
+global.reactmoji = "🐺" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣selfie⍣" //ur sticker watermark packname
-global.author = "⍣DEMON⍣" //ur sticker watermark author
+global.packname = "⍣꧁𝐑𝐞𝐠𝐢𝐬 𝐁𝐎𝐓꧂⍣" //ur sticker watermark packname
+global.author = "⍣STAR⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
+    success: 'تم يرايق  ✓',
     admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
